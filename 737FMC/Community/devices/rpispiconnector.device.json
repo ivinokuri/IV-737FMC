@@ -1,10 +1,10 @@
 {
     "$schema": "./mfdevice.schema.json",
     "Info": {
-      "Label": "Mobiflight's template",
-      "Type": "MOBIFLIGHT_TEMPLATE",
-      "Author": "Mobiflight",
-      "URL": "https://github.com",
+      "Label": "IVRPiSPIConnector",
+      "Type": "IV_RPiSPICONNECTOR",
+      "Author": "Igor Vinokur",
+      "URL": "https://github.com/ivinokuri/RPi-SPI-Connector",
       "Version" : "1.0.0"
     },
     "Config": {
